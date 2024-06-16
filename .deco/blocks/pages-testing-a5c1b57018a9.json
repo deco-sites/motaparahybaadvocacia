@@ -9,27 +9,26 @@
         "buttons": []
       },
       "logo": {
-        "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10812/da4a6c69-2af4-4422-95b0-08c37d05b8dc"
+        "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10812/2dc5d1fa-e806-4c2e-9a9d-39787f92949a"
       }
     },
     {
       "__resolveType": "site/sections/Hero.tsx",
-      "title": "<p>Click here to tweak this text however you want.</p>",
+      "title": "<p>Nossa História</p>",
+      "placement": "right",
       "cta": [],
-      "description": "This text is fully editable and ready for your personal touch. Just click here, head over to the section window, or dive straight into the code to make changes as you see fit. Whether it's about the content, formatting, font, or anything in between, editing is just a click away."
-    },
-    {
-      "__resolveType": "site/sections/Logos.tsx"
-    },
-    {
-      "__resolveType": "site/sections/ImageWithParagraph.tsx"
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10812/0176792c-4075-4c53-a515-7f21ee57c4b8",
+      "description": "O escritório Mota Parahyba Advocacia, é fruto da visão empreendedora de seus sócios que decidiram unir habilidades e experiência de forma a proporcionar uma prestação de serviços jurídicos de alto padrão e qualidade.  Com atuação harmonia em todas as áreas do direito, o escritório Mota Parahyba oferece assistência legal a clientes nacionais e estrangeiros dos mais variados setores de atividades, privados e públicos incluindo entidades governamentais."
     },
     {
       "__resolveType": "site/sections/ImageWithParagraph.tsx",
-      "placement": "right"
-    },
-    {
-      "__resolveType": "site/sections/BlogPosts.tsx"
+      "description": "O escritório Mota Parahyba Advocacia, é fruto da visão empreendedora de seus sócios que decidiram unir habilidades e experiência de forma a proporcionar uma prestação de serviços jurídicos de alto padrão e qualidade.\n\nCom atuação harmonia em todas as áreas do direito, o escritório Mota Parahyba oferece assistência legal a clientes nacionais e estrangeiros dos mais variados setores de atividades, privados e públicos incluindo entidades governamentais.",
+      "title": "Nossa História",
+      "tagline": "______________",
+      "disableSpacing": {
+        "top": true,
+        "bottom": false
+      }
     },
     {
       "__resolveType": "site/sections/Testimonials.tsx"
@@ -38,7 +37,14 @@
       "__resolveType": "site/sections/Faq.tsx"
     },
     {
-      "__resolveType": "Footer"
+      "__resolveType": "site/sections/Footer.tsx",
+      "links": [],
+      "bottomLinks": [],
+      "social": [],
+      "subscribe": {},
+      "logo": {
+        "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10812/3fff6496-13b8-4291-aa19-b07308d12248"
+      }
     }
   ],
   "__resolveType": "website/pages/Page.tsx"

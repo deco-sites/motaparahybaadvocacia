@@ -21,19 +21,6 @@
       "description": "O escritório Mota Parahyba Advocacia, é fruto da visão empreendedora de seus sócios que decidiram unir habilidades e experiência de forma a proporcionar uma prestação de serviços jurídicos de alto padrão e qualidade.  Com atuação harmonia em todas as áreas do direito, o escritório Mota Parahyba oferece assistência legal a clientes nacionais e estrangeiros dos mais variados setores de atividades, privados e públicos incluindo entidades governamentais."
     },
     {
-      "__resolveType": "site/sections/ImageWithParagraph.tsx",
-      "description": "O escritório Mota Parahyba Advocacia, é fruto da visão empreendedora de seus sócios que decidiram unir habilidades e experiência de forma a proporcionar uma prestação de serviços jurídicos de alto padrão e qualidade.\n\nCom atuação harmonia em todas as áreas do direito, o escritório Mota Parahyba oferece assistência legal a clientes nacionais e estrangeiros dos mais variados setores de atividades, privados e públicos incluindo entidades governamentais.",
-      "title": "Nossa História",
-      "tagline": "______________",
-      "disableSpacing": {
-        "top": true,
-        "bottom": false
-      }
-    },
-    {
-      "__resolveType": "site/sections/Testimonials.tsx"
-    },
-    {
       "__resolveType": "site/sections/Faq.tsx"
     },
     {
@@ -43,7 +30,7 @@
       "social": [],
       "subscribe": {},
       "logo": {
-        "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10812/3fff6496-13b8-4291-aa19-b07308d12248"
+        "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10812/69e1d776-aaa3-4f66-92fd-a74a567cd136"
       }
     }
   ],

@@ -27,13 +27,37 @@
     },
     {
       "__resolveType": "site/sections/Footer.tsx",
-      "links": [],
+      "links": [
+        {
+          "items": [
+            {
+              "href": "https://www.instagram.com/motaparahybaadvocacia/",
+              "label": "Instagram"
+            },
+            {
+              "label": "WhatsApp",
+              "href": "https://api.whatsapp.com/send?1=pt_BR&phone=5585981731818"
+            }
+          ],
+          "title": "Nossos Contatos"
+        }
+      ],
       "bottomLinks": [],
-      "social": [],
-      "subscribe": {},
+      "social": [
+        {
+          "network": "Instagram",
+          "href": "https://www.instagram.com/motaparahybaadvocacia/"
+        }
+      ],
+      "subscribe": {
+        "title": "Nossa localização",
+        "description": "R. Nunes Valente, 3291 - Dionísio Torres, Fortaleza - CE, 60120-295",
+        "instructions": "<p>Mota Parahyba Advocacia e Consultoria. Todos os direitos reservados.</p>"
+      },
       "logo": {
         "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10812/69e1d776-aaa3-4f66-92fd-a74a567cd136"
-      }
+      },
+      "copyright": "MOTA PARAHYBA © COPYRIGHT 2024"
     }
   ],
   "__resolveType": "website/pages/Page.tsx"
